@@ -39,7 +39,7 @@ function App() {
                 id="password"
               />
             </div>
-            <div className="flex items-center gap-2 mb-3">
+            <div className="gap-2 mb-3">
               <input
                 type="checkbox"
                 className="text-sm accent-primary"
