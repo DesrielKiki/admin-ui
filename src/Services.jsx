@@ -1,5 +1,5 @@
-const city = "Jakarta";
-const street = "Jl. Sudirman";
+const city = "Semarang";
+const street = "Pleburan";
 
 export const getUsers = async () => {
   try {
